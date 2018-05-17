@@ -3,6 +3,7 @@ package Bienes;
 import junit.framework.TestCase;
 import utility.ExcelUtils;
 import Bienes.Clase;
+import Bienes.AsociarMarca;
 
 public class Datos_AsociarMarca {
 	public String setDatos_AsociarMarca(String bodySubClase, String bodyMarca) throws Exception{
